@@ -1,26 +1,78 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "KubeCraft",
+    "role": "Junior DevOps Engineer (Internship)",
+    "period": "Jul 2025 - Present",
+    "type": "Internship",
+    "description": "Completed a structured, project-based DevOps internship focused on Linux, Kubernetes, Terraform, cloud infrastructure, observability and CI/CD. Built and deployed end-to-end infrastructure solutions using AWS, Kubernetes, GitHub Actions, Prometheus and Grafana while developing strong troubleshooting, documentation and technical ownership skills.",
+    "skills": [
+      "Linux",
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "GitHub Actions",
+      "Prometheus",
+      "Grafana"
+    ]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "Focusrite Audio Engineering",
+    "role": "Junior Platform Engineer",
+    "period": "Oct 2024 - Jul 2025",
+    "type": "Full-time",
+    "description": "Developed platform engineering solutions to improve developer productivity and internal tooling. Delivered Python-based GitHub monitoring systems, maintained Terraform modules with automated testing and validation, and created GitHub Actions workflows to automate documentation publishing to Confluence.",
+    "skills": [
+      "Terraform",
+      "Python",
+      "GitHub Actions",
+      "AWS",
+      "Platform Engineering"
+    ]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Focusrite Audio Engineering",
+    "role": "Infrastructure Automation Engineer",
+    "period": "Jun 2023 - Sep 2024",
+    "type": "Full-time",
+    "description": "Designed and implemented automation solutions across the employee lifecycle. Built an onboarding and offboarding platform using Azure Lifecycle Workflows, Logic Apps, Runbooks, PowerShell and Python, helping reduce SLA breaches and improving operational efficiency across IT services.",
+    "skills": ["Azure", "PowerShell", "Python", "Automation", "API Development"]
+  },
+  {
+    "company": "Focusrite Audio Engineering",
+    "role": "IT Support Engineer",
+    "period": "Jun 2022 - Jun 2023",
+    "type": "Full-time",
+    "description": "Provided first-line IT support while driving automation initiatives. Led Intune migrations for over 100 devices, coordinated a 1TB SharePoint migration and developed Python and PowerShell automation scripts that reduced manual effort and improved operational efficiency.",
+    "skills": [
+      "IT Support",
+      "Microsoft Intune",
+      "PowerShell",
+      "Python",
+      "Automation"
+    ]
+  },
+  {
+    "company": "IRIS Software Group",
+    "role": "1st Line Software Support Agent",
+    "period": "Sep 2021 - Oct 2021",
+    "type": "Contract",
+    "description": "Provided first-line software support, troubleshooting customer issues and assisting users with business-critical software applications while developing strong problem-solving and customer service skills.",
+    "skills": ["Technical Support", "Customer Service", "Troubleshooting"]
+  },
+  {
+    "company": "RKW Limited",
+    "role": "IT Support Engineer",
+    "period": "Mar 2021 - Sep 2021",
+    "type": "Full-time",
+    "description": "Supported end users across a range of hardware, software and business systems, resolving technical issues and contributing to day-to-day IT operations within a fast-paced environment.",
+    "skills": ["IT Support", "Windows", "Troubleshooting", "Customer Service"]
+  },
+  {
+    "company": "IT Career Switch",
+    "role": "Student",
+    "period": "Jan 2020 - Mar 2021",
+    "type": "Education",
+    "description": "Completed an intensive IT training program covering core networking, systems administration, technical support and industry best practices, providing the foundation for a career in IT and platform engineering.",
+    "skills": ["Networking", "Windows", "Technical Support", "IT Fundamentals"]
   }
 ]

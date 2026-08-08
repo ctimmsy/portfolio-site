@@ -1,35 +1,53 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Cloud & DevOps",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "AWS", "level": 2, "icon": "skill-icons:aws-dark" },
+        { "name": "Kubernetes", "level": 2, "icon": "skill-icons:kubernetes" },
+        { "name": "Docker", "level": 3, "icon": "skill-icons:docker" },
+        {
+          "name": "Terraform",
+          "level": 2,
+          "icon": "skill-icons:terraform-dark"
+        },
+        { "name": "FluxCD", "level": 2, "icon": "skill-icons:git" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Linux & Infrastructure",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Linux", "level": 3, "icon": "skill-icons:linux-dark" },
+        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+        { "name": "Bash", "level": 2, "icon": "skill-icons:bash-dark" },
+        { "name": "Networking", "level": 2, "icon": "skill-icons:nginx" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Programming & Automation",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
         { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        {
+          "name": "Azure Automation",
+          "level": 2,
+          "icon": "skill-icons:azure-dark"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": 1,
+          "icon": "skill-icons:postgresql-dark"
+        }
       ]
     },
     {
-      "title": "Database",
+      "title": "Developer Tools",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        {
+          "name": "GitHub Actions",
+          "level": 2,
+          "icon": "skill-icons:github-dark"
+        },
+        { "name": "Neovim", "level": 2, "icon": "skill-icons:neovim-dark" }
       ]
     }
   ]

@@ -1,20 +1,46 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Kubernetes Homelab",
+    "description": "A GitOps-managed k3s homelab using FluxCD, Traefik, and Cloudflare Tunnel to deploy, monitor, and automatically update self-hosted services.",
+    "images": ["kubernetes.jpg"],
+    "tech": [
+      "Kubernetes",
+      "FluxCD",
+      "Traefik",
+      "Kustomize",
+      "Helm",
+      "Prometheus",
+      "Grafana"
+    ],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "link": "https://github.com/ctimmsy/kubernetes-homelab",
+    "category": "Homelab"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Firefly III Importer",
+    "description": "A Python tool that imports Starling Bank transactions into a self-hosted Firefly III instance, replacing the official importer with custom logic.",
+    "images": ["firefly.webp"],
+    "tech": ["Python"],
+    "platforms": ["web"],
+    "link": "https://github.com/ctimmsy/firefly-importer",
+    "category": "Open Source"
+  },
+  {
+    "title": "Lab",
+    "description": "A sandbox monorepo for trying out new tools and technologies.",
+    "images": ["dexter-lab.jpg"],
+    "tech": ["Terraform", "AWS", "Azure"],
+    "platforms": ["web"],
+    "link": "https://github.com/ctimmsy/lab",
+    "category": "Sandbox"
+  },
+  {
+    "title": "Dotfiles",
+    "description": "Cross-platform, chezmoi-managed dotfiles covering Arch Linux, Hyprland, Neovim, tmux, and devcontainer environments.",
+    "images": ["fastfetch.webp"],
+    "tech": ["Shell", "Chezmoi"],
+    "platforms": ["web"],
+    "link": "https://github.com/ctimmsy/dotfiles",
+    "category": "Tooling"
   }
 ]
