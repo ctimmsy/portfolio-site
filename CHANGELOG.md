@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.8](https://github.com/ctimmsy/portfolio-site/compare/career-portfolio-v0.1.7...career-portfolio-v0.1.8) (2026-09-16)
+
+
+### Features
+
+* add docker in docker to devcontainer ([e0519f0](https://github.com/ctimmsy/portfolio-site/commit/e0519f0160401e72c73e877ef532796eb519ca3d))
+
+
+### Bug Fixes
+
+* add missing , ([0aac9a4](https://github.com/ctimmsy/portfolio-site/commit/0aac9a4be91d41b2dafbaf6b11b5627e79461bc2))
+
 ## [0.1.7](https://github.com/ctimmsy/portfolio-site/compare/career-portfolio-v0.1.6...career-portfolio-v0.1.7) (2026-09-11)
 
 
