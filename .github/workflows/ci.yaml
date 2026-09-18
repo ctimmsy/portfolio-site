@@ -1,12 +1,16 @@
 name: CI
 
 on:
+  workflow_dispatch:
   push:
-    branches:
-      - dev
-  pull_request:
-    branches:
+    branches-ignore:
       - main
+    paths:
+      - "public/**"
+      - "src/**"
+      - "astro.config.mjs"
+      - "package.json"
+      - "package-lock.json"
 
 jobs:
   build-check:
