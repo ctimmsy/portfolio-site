@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.20](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.19...portfolio-site-v0.1.20) (2026-09-19)
+
+
+### Bug Fixes
+
+* add package write permissions ([66a388d](https://github.com/ctimmsy/portfolio-site/commit/66a388d2604c7b15733bec650aab63321a96236c))
+* add package write permissions ([47a9ac2](https://github.com/ctimmsy/portfolio-site/commit/47a9ac23a422d35d0f2865e471dfbe273517ebbc))
+
 ## [0.1.19](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.18...portfolio-site-v0.1.19) (2026-09-19)
 
 
