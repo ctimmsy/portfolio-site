@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.13](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.12...portfolio-site-v0.1.13) (2026-09-19)
+
+
+### Bug Fixes
+
+* add correct tags variable ([0597c16](https://github.com/ctimmsy/portfolio-site/commit/0597c165c4efad5228404f181a066eb805a977ff))
+* add correct tags variable ([0d91280](https://github.com/ctimmsy/portfolio-site/commit/0d91280606c280c9753e265dbbce2f025ed3c4b1))
+
 ## [0.1.12](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.11...portfolio-site-v0.1.12) (2026-09-19)
 
 
