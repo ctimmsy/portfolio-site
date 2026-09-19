@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.12](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.11...portfolio-site-v0.1.12) (2026-09-19)
+
+
+### Bug Fixes
+
+* .Dockerfile to ./Dockerfile ([99b8f95](https://github.com/ctimmsy/portfolio-site/commit/99b8f95aaddd847ef48685bfa91f6e615ba26f56))
+* .Dockerfile to ./Dockerfile ([5115947](https://github.com/ctimmsy/portfolio-site/commit/5115947a1389534eee851a98444ba881a1b355d2))
+
 ## [0.1.11](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.10...portfolio-site-v0.1.11) (2026-09-19)
 
 
