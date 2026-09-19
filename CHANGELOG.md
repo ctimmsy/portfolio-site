@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.10](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.9...portfolio-site-v0.1.10) (2026-09-19)
+
+
+### Bug Fixes
+
+* testing workflow ([7998754](https://github.com/ctimmsy/portfolio-site/commit/7998754879332123da411e69f659279efedc6a13))
+
 ## [0.1.9](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.8...portfolio-site-v0.1.9) (2026-09-19)
 
 
