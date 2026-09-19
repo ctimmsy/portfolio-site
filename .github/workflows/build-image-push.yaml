@@ -62,7 +62,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build-and-push-image
     permissions:
-      security-events: read
+      security-events: write
 
     steps:
       - name: Run Trivy vulnerability scanner
@@ -100,4 +100,5 @@ jobs:
         run: |
           docker pull "${{ env.CONTAINER_REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}"
           docker tag "${{ env.CONTAINER_REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}" "${{ env.CONTAINER_REGISTRY }}/${{ env.IMAGE_NAME }}:latest" "${{ env.CONTAINER_REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.tag.outputs.TAG }}"
-          docker push -a "${{ env.CONTAINER_REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}"
+          docker push "${{ env.CONTAINER_REGISTRY }}/${{ env.IMAGE_NAME }}:latest"
+          docker push "${{ env.CONTAINER_REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.tag.outputs.TAG }}"
