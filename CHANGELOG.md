@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.11](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.10...portfolio-site-v0.1.11) (2026-09-19)
+
+
+### Bug Fixes
+
+* run tag workflow testing ([3896d28](https://github.com/ctimmsy/portfolio-site/commit/3896d28b1de533757f01d21f8d145675110c465b))
+* run tag workflow testing ([6f7575f](https://github.com/ctimmsy/portfolio-site/commit/6f7575f1c051078465dd2294ef9529c26a9fd2ea))
+
 ## [0.1.10](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.9...portfolio-site-v0.1.10) (2026-09-19)
 
 
