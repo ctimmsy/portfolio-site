@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.15](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.14...portfolio-site-v0.1.15) (2026-09-19)
+
+
+### Bug Fixes
+
+* add security-events read ([119e6fa](https://github.com/ctimmsy/portfolio-site/commit/119e6fab7778e609a0c021a50719a78112e74878))
+* add security-events read ([fbf8138](https://github.com/ctimmsy/portfolio-site/commit/fbf8138ba6794c3152eac07929893f63902bb656))
+
 ## [0.1.14](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.13...portfolio-site-v0.1.14) (2026-09-19)
 
 
