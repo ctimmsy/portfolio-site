@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.17](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.16...portfolio-site-v0.1.17) (2026-09-19)
+
+
+### Bug Fixes
+
+* codeql permission and separate docker push ([40f3429](https://github.com/ctimmsy/portfolio-site/commit/40f3429393f21c28435795a5de40e400cbff6800))
+* codeql permission and separate docker push ([1bf9a6c](https://github.com/ctimmsy/portfolio-site/commit/1bf9a6ca356813aabe421b3376be98b275352d08))
+
 ## [0.1.16](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.15...portfolio-site-v0.1.16) (2026-09-19)
 
 
