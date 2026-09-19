@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.9](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.8...portfolio-site-v0.1.9) (2026-09-19)
+
+
+### Bug Fixes
+
+* add docker buildx action step ([2ac7280](https://github.com/ctimmsy/portfolio-site/commit/2ac7280349a1be642cd506d018c729d6c9e43849))
+
 ## [0.1.8](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.7...portfolio-site-v0.1.8) (2026-09-19)
 
 
