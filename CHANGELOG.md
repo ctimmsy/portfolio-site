@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.1.8](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.7...portfolio-site-v0.1.8) (2026-09-19)
+
+
+### Features
+
+* add docker in docker to devcontainer ([e0519f0](https://github.com/ctimmsy/portfolio-site/commit/e0519f0160401e72c73e877ef532796eb519ca3d))
+* add security-testing workflow ([8a7f1fb](https://github.com/ctimmsy/portfolio-site/commit/8a7f1fb743e8ae01edb474b8af335b4abdef533e))
+* run CI only for non-main branches ([c5b33d0](https://github.com/ctimmsy/portfolio-site/commit/c5b33d09b9193242e5ac2a79b203726f01e52e57))
+* update build-image workflow to build on tag ([dfcb5a7](https://github.com/ctimmsy/portfolio-site/commit/dfcb5a79daab9bde5ed97c30e656371d455e7df3))
+
+
+### Bug Fixes
+
+* add missing , ([0aac9a4](https://github.com/ctimmsy/portfolio-site/commit/0aac9a4be91d41b2dafbaf6b11b5627e79461bc2))
+* remove matrix.language from job name ([0df22de](https://github.com/ctimmsy/portfolio-site/commit/0df22ded9f2b07a9f4b2ec9665a62cdf08256b23))
+
 ## [0.1.7](https://github.com/ctimmsy/portfolio-site/compare/career-portfolio-v0.1.6...career-portfolio-v0.1.7) (2026-09-11)
 
 
