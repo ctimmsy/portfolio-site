@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.16](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.15...portfolio-site-v0.1.16) (2026-09-19)
+
+
+### Bug Fixes
+
+* codeql permission in docker workflow ([465d28b](https://github.com/ctimmsy/portfolio-site/commit/465d28bd0dcb7ff81cf80ffc37323d97fae50aae))
+* codeql permission in docker workflow ([e143b4c](https://github.com/ctimmsy/portfolio-site/commit/e143b4c345a2ab37a9eec7a26cc4ef3ef3a9a245))
+
 ## [0.1.15](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.14...portfolio-site-v0.1.15) (2026-09-19)
 
 
