@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.21](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.20...portfolio-site-v0.1.21) (2026-09-19)
+
+
+### Bug Fixes
+
+* tag registry image without pulling ([b4dd97a](https://github.com/ctimmsy/portfolio-site/commit/b4dd97abea52295b66e8d1ff7ec6588eff15ea6b))
+* tag registry image without pulling ([f0cc4c4](https://github.com/ctimmsy/portfolio-site/commit/f0cc4c405a4882849eb3822751ba3a82c36a1ae3))
+
 ## [0.1.20](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.19...portfolio-site-v0.1.20) (2026-09-19)
 
 
