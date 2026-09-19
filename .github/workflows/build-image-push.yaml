@@ -11,11 +11,11 @@ env:
 jobs:
   build-and-push-image:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-      attestations: write
-      id-token: write
+    # permissions:
+    #   contents: read
+    #   packages: write
+    #   attestations: write
+    #   id-token: write
 
     steps:
       - name: Checkout repository
@@ -44,7 +44,7 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           context: ${{ github.workspace }}
-          file: .
+          file: .Dockerfile
           push: true
           tags: ${{ github.sha }}
           labels: ${{ steps.meta.outputs.labels }}
