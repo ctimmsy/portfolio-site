@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.19](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.18...portfolio-site-v0.1.19) (2026-09-19)
+
+
+### Bug Fixes
+
+* remove extra tag from docker tag command ([1a9751b](https://github.com/ctimmsy/portfolio-site/commit/1a9751b2786a274767ee0696d9c388d714a680e1))
+* remove extra tag from docker tag command ([ce2a88a](https://github.com/ctimmsy/portfolio-site/commit/ce2a88a5435a7e5a2870bbda8c06107db0308ca2))
+
 ## [0.1.18](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.17...portfolio-site-v0.1.18) (2026-09-19)
 
 
