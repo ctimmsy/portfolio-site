@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.14](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.13...portfolio-site-v0.1.14) (2026-09-19)
+
+
+### Bug Fixes
+
+* add permission back ([0366128](https://github.com/ctimmsy/portfolio-site/commit/0366128b3b67db74f5028abde65d4610a3ef3a73))
+* add permission back ([b4671cc](https://github.com/ctimmsy/portfolio-site/commit/b4671ccef4db03e148e3b533f643f9c157d23e53))
+
 ## [0.1.13](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.12...portfolio-site-v0.1.13) (2026-09-19)
 
 
