@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.18](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.17...portfolio-site-v0.1.18) (2026-09-19)
+
+
+### Bug Fixes
+
+* split docker tagging ([c59bdbb](https://github.com/ctimmsy/portfolio-site/commit/c59bdbb3db1a3da2dfa3df5e14bd4d5239c67309))
+* split docker tagging ([62bae83](https://github.com/ctimmsy/portfolio-site/commit/62bae833fbf78054f9f182348594bcec83065c60))
+
 ## [0.1.17](https://github.com/ctimmsy/portfolio-site/compare/portfolio-site-v0.1.16...portfolio-site-v0.1.17) (2026-09-19)
 
 
